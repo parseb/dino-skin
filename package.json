@@ -32,7 +32,6 @@
   },
   "type": "module",
   "dependencies": {
-    "@lottiefiles/svelte-lottie-player": "^0.3.0",
     "buffer": "^6.0.3",
     "dotenv": "^16.0.2",
     "ethers": "^5.7.2",
