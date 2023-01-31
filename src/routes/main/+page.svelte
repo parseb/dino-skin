@@ -311,7 +311,7 @@ You set up a WalllaW DAO with $MyStreetGarden as base value. Immutably stream in
             </div>
           </div>
       </div> 
-      <br>
+
       <br>
       <br>
       <br>
@@ -329,7 +329,7 @@ You set up a WalllaW DAO with $MyStreetGarden as base value. Immutably stream in
       </div>
       <hr>
 
-   
+  
 </div>
 
 <style>
