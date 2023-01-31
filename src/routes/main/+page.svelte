@@ -26,7 +26,7 @@
                 href="http://lol.walllaw.lol"
                 class="link-info text-decoration-none"
             >
-                <h2>WalllaW</h2>
+                <h2>WalllaW <i class="bi bi-link"></i></h2>
             </a>
             <br />
         </div>
@@ -258,7 +258,8 @@ They’re not unavoidable, but merely an unchallenged default that seems to have
                 <br> <br>
 WalllaW accounts for this. The work starts with the contributor under the form of a new, branching out effort which can take the shape of a new sub-DAO. The metadata links to the aimed outputs, communication channels and where the work can be followed and its considerations such as potential timelines, resource requirements, contributor requirements. Fellow governance members assign resources through a coordinape-like mechanism. 1-100% of your share of deposit corresponding to inflation can be withdrawn, permissionless by the sub-dao. That’s the implemented idea. 
                 <br> <br>
-So it’s retroactive in the sense that the work already started, is in progress. What work is not so? The difference here perhaps is that it does not mean that the initiator is obligated to do anything. It is much more the case that they need to prove themselves reliable and work very much so in public. Their work and presence on that branch is part of their identity in the specific DAO and potentially wider network. Allocations vest and inflation materialises linearly. Preferred allocations can change on a whim, with a justification or without, to the various degrees to which any actor chooses to incentivize work (change, movement, overall direction) and reward effort and accomplishments.
+So it’s retroactive in the sense that the work already started, is in progress. What work is not so? The difference here perhaps is that it does not mean that the initiator is not obligated to do anything. It is much more the case that they need to prove themselves reliable and work very much so in public. Their work and presence on that branch is part of their identity in the specific DAO and potentially wider network. Allocations are a form of trust. And trust, by definition, has potential downside. 
+ <br> <br> Allocations vest and inflation materialises linearly. Preferred allocations can change on a whim, with a justification or without, to the various degrees to which any actor chooses to incentivize work (change, movement, overall direction) and reward effort and accomplishments.
 
                 
             </div>
